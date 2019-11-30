@@ -1,0 +1,11 @@
+.DS_Store
+.tags
+.env
+dump.rdb
+.tags_sorted_by_file
+storage/exciler/
+vendor/
+.env
+~$*
+.idea/
+*.iml
